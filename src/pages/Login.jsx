@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import styles from "./Login.module.css";
-import PageNav from "../../components/pageNav";
+import PageNav from "../../components/Pagenav";
 import { useState, useEffect } from "react";
 import Button from "../../components/Button";
 import { useAuth } from "../contexts/FakeAuthContext";
