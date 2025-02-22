@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🚩",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "9a34",
+      "cityName": "Riaza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-02-21T22:12:43.746Z",
+      "notes": "",
+      "position": {
+        "lat": 41.26989986695446,
+        "lng": -3.306867136006175
+      }
+    },
+    {
+      "id": "30e8",
+      "cityName": "Vinhais",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2025-02-22T22:22:31.450Z",
+      "notes": "",
+      "position": {
+        "lat": 41.74735268533311,
+        "lng": -7.162320880045313
+      }
+    }
+  ]
+}
