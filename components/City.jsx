@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import styles from "./City.module.css";
 import { useParams } from "react-router-dom";
 import { useCities } from "../src/contexts/CitiesContext";
@@ -20,6 +21,7 @@ function City() {
   useEffect(
     function () {
       getCity(id);
+      console.log(isLoading);
     },
     [id]
   );
